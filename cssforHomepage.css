@@ -1,0 +1,39 @@
+h1{
+  color: blue;
+}
+
+p{
+  color: red;
+}
+
+.Image_and_description{
+  display: inline;
+
+}
+
+
+.right1{
+  float: left;
+  margin: 100;
+  padding: 10px;
+  padding-bottom: 310px
+
+}
+.left1{
+  float: left;
+  margin: 20;
+  padding: 2px;
+
+}
+
+.Projects{
+  display: inline;
+  float: left;
+}
+
+.projectAndPic{
+  display: inline;
+  float: left;
+  padding: 20px;
+  flex-grow: 1
+}
